@@ -1,0 +1,32 @@
+{
+  "name": "glbc-healthcheck-koa",
+  "version": "0.0.0",
+  "description": "Handle GLBC health check in Koa.js, it will return `{\"status\": \"ok\"}` when GLBC check your service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael34435/glbc-healthcheck-koa.git"
+  },
+  "keywords": [
+    "glbc",
+    "healthcheck",
+    "health-check",
+    "koa",
+    "nodejs",
+    "node"
+  ],
+  "author": "Michael.K <michael34435@capslock.tw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michael34435/glbc-healthcheck-koa/issues"
+  },
+  "homepage": "https://github.com/michael34435/glbc-healthcheck-koa#readme",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}

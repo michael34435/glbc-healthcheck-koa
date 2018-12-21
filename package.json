@@ -1,6 +1,6 @@
 {
   "name": "glbc-healthcheck-koa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handle GLBC health check in Koa.js, it will return `{\"status\": \"ok\"}` when GLBC check your service.",
   "main": "index.js",
   "repository": {
